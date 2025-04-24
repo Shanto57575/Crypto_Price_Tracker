@@ -20,6 +20,10 @@ A responsive React + Redux Toolkit app that simulates real-time crypto price tra
 - Real-time updates every 2 seconds
 - Color-coded % change (green for positive, red for negative)
 
+```
+VIDEO: https://drive.google.com/file/d/1bteLWZRx3IXSHJjRGnmVy1WaF-2ssA8L/view?usp=sharing
+```
+
 ## 📦 Setup Instructions
 
 ```bash
